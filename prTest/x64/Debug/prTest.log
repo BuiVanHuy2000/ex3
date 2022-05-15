@@ -1,0 +1,9 @@
+﻿  prTest.cpp
+D:\C++ Code\pr3_ltm\prTest\prTest.cpp(20,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\C++ Code\pr3_ltm\prTest\prTest.cpp(60,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\C++ Code\pr3_ltm\prTest\prTest.cpp(101,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+D:\C++ Code\pr3_ltm\prTest\prTest.cpp(101,12): message : consider using '%lld' in the format string
+D:\C++ Code\pr3_ltm\prTest\prTest.cpp(101,12): message : consider using '%Id' in the format string
+D:\C++ Code\pr3_ltm\prTest\prTest.cpp(101,12): message : consider using '%I64d' in the format string
+D:\C++ Code\pr3_ltm\prTest\prTest.cpp(108,9): warning C4101: 'ret1': unreferenced local variable
+  prTest.vcxproj -> D:\C++ Code\pr3_ltm\x64\Debug\prTest.exe
